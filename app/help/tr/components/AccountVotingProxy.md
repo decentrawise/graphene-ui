@@ -1,0 +1,1 @@
+Bir vekil adınıza oy kullanımını yönetir. Graphene forumunda vekil olarak görev almaya gnüllü kişileri bulabilirsiniz.

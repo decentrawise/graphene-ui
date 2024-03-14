@@ -1,5 +1,5 @@
 {
-  "name": "bitshares-keys-bloom-filter",
+  "name": "graphene-keys-bloom-filter",
   "version": "1.0.0",
   "description": "",
   "main": "bloom_filter_wallet.js",
@@ -12,6 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "coffee-script": "^1.12.2",
-    "graphenejs-lib": "^0.4.10"
+    "@decentrawise/graphenejs": "^0.4.10"
   }
 }
